@@ -15,7 +15,7 @@ Any beginner who wants to starts its journey in LLM, should know these fundament
 
 4. Where it can be used to solve the business problem?
    
--> i) Eg. At fintech- a lot of time/bandwidth is used to resolve a ticket. So whenever an escalation come, it can be related to blocked/ blacklisted. We can build a mechanism to automatically answer these.
+i) Eg. At fintech- a lot of time/bandwidth is used to resolve a ticket. So whenever an escalation come, it can be related to blocked/ blacklisted. We can build a mechanism to automatically answer these.
 
--> ii) To perform investigation - An investigation is done based on number of parameters. We can give these parameters to the LLM and fine-tune the model based on past investigation. 
+ii) To perform investigation - An investigation is done based on number of parameters. We can give these parameters to the LLM and fine-tune the model based on past investigation. 
 
